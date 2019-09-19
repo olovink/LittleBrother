@@ -1,0 +1,23 @@
+# LittleBrother language profile
+# Copyright c 2019. Pyramid Team and STGroup All rights reserved.
+
+# Those message will show when user type help command
+help.version=§a/LittleBrother version - Смотрит версию плагина.
+help.command=§c---Команды :/lb ---
+help.status=§a/LittleBrother status - Показывает состояние плагина.
+help.reload=§a/LittleBrother reload - Перезагружает конфиг плагина.
+
+# Server event, reload etc.
+server.enable.tip=LittleBrother включается…
+server.disable=LittleBrother выключается…
+
+plugin.config.reload.process=§cПерезагрузка конфига...
+plugin.config.reload.done=§cКонфиг успешно перезагрузился!
+
+# Those message will show when user want to lookup LittleBrother’s working status
+status.port=§cMCPE Server Port:
+status.motd=§cMCPE Server Motd:
+
+# Those message will show when an exception happened
+exception.config.save=Не удалось сохранить конфиг
+exception.config.init.datafolder=Data folder cannot be null
