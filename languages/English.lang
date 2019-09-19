@@ -1,5 +1,5 @@
 # LittleBrother language profile
-# Copyright c 2014. Pyramid Team All rights reserved.
+# Copyright c 2019. Pyramid Team and STGroup All rights reserved.
 
 # Those message will show when user type help command
 help.version=§a/LittleBrother version - Shows you the version of the plugin.
